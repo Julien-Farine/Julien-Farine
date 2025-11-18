@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Julien Farine
 
 ## 📚 About Me
-I'm pursuing an **engineering degree** in **applied mathematics** and **modelling** at **Polytech Nice Sophia**. 
+I'm pursuing an **engineering degree** in **applied mathematics** and **computer science** at **Polytech Sorbonne**. 
 
 ## 🛠️ Skills
 - Mathematics
